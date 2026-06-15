@@ -20,6 +20,7 @@ Current classes (as of June 15th, 2026):
   - Healthy Leaves
   - Isariopsis Leaf Spot
 
-To run the website: Run app.py then yolo_client.py
+To run the website: Run app.py then yolo_client.py.
+Make sure all files are in the same folder.
 
 
