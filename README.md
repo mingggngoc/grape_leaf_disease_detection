@@ -23,4 +23,10 @@ Current classes (as of June 15th, 2026):
 To run the website: Run app.py then yolo_client.py.
 Make sure all files are in the same folder.
 
-
+Requirements:
+flask
+ultralytics
+requests
+opencv-python
+torch
+torchvision
